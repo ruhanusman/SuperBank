@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "944519724669",
+    "firebase_url": "https://super-bank-5570e.firebaseio.com",
+    "project_id": "super-bank-5570e",
+    "storage_bucket": "super-bank-5570e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944519724669:android:678d83a33387be78",
+        "android_client_info": {
+          "package_name": "com.lordblack.SuperBank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944519724669-moh6agpi6addllukofqmv4qi0gj078jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lordblack.Superbank",
+            "certificate_hash": "cfe3ae344377986c86cf423898c8c39cb4048dc4"
+          }
+        },
+        {
+          "client_id": "944519724669-42so1j37j7i7c7745r58j36a2rsikse4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexYR6LOfZT6nIuXA-DOFjVjI8kbPMchY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944519724669-42so1j37j7i7c7745r58j36a2rsikse4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944519724669:android:ee34d59351ddd724",
+        "android_client_info": {
+          "package_name": "com.lordblack.Superbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944519724669-pl6n1k5qh00hi900q89k9q4dda7up6ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lordblack.Superbank",
+            "certificate_hash": "cfe3ae344377986c86cf423898c8c39cb4048dc4"
+          }
+        },
+        {
+          "client_id": "944519724669-42so1j37j7i7c7745r58j36a2rsikse4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexYR6LOfZT6nIuXA-DOFjVjI8kbPMchY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944519724669-42so1j37j7i7c7745r58j36a2rsikse4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944519724669:android:4be87deb688d0c82",
+        "android_client_info": {
+          "package_name": "com.lordblack.Superbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944519724669-42so1j37j7i7c7745r58j36a2rsikse4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexYR6LOfZT6nIuXA-DOFjVjI8kbPMchY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
